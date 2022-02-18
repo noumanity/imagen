@@ -1,0 +1,29 @@
+{
+  "name": "imagen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jekyll:dev": "jekyll serve --incremental --watch",
+    "css:dev": "npx postcss _sass/main.scss --output assets/css/style.css --watch",
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noumanity/imagen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noumanity/imagen/issues"
+  },
+  "homepage": "https://github.com/noumanity/imagen#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "cssnano": "^5.0.17",
+    "postcss": "^8.4.6",
+    "postcss-cli": "^9.1.0",
+    "tailwindcss": "^3.0.23"
+  }
+}
