@@ -1,8 +1,9 @@
 # Estilo y Imagen de marca de numanity
 
 
- - [logotipo](assets/img)
- - [diseño](assets/diseño)
+ - [isotipo](assets/isotipo)
+ - [logo](assets/logo)
+ - [diseño](./diseño)
 
 
 
