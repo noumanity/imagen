@@ -1,7 +1,11 @@
+---
 color:
-  primario: #fa4d1f
-  secundario: #000000
+  primario: "#fa4d1f"
+  secundario: "#ffffff"
 
 font:
   primaro: Arimo
   secundario: ABeeZee
+
+logo:
+  norma: assets/logo/noumanity-norma.svg
